@@ -1,5 +1,8 @@
 
 public class Sample {
-	println 
+	private void prin() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
